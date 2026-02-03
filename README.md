@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **web development projects**
 
 
-
 - 📫 How to reach me **apurba.mishra01@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
