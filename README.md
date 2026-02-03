@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web development projects**
 
-- 🌱 I’m currently learning **I am currently studying Computer Science at a Leeds Beckett University affiliated college.**
+
 
 - 📫 How to reach me **apurba.mishra01@gmail.com**
 
