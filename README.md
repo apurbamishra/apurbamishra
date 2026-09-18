@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurba Mishra</h1>
 <h3 align="center">A passionate and driven computer science student with a strong interest in programming, web development, machine learning, and artificial intelligence.</h3>
 
-- 🔭 I’m currently working on **web development projects**
+
 
 
 - 📫 How to reach me **apurba.mishra01@gmail.com**
